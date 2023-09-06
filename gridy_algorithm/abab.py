@@ -2,3 +2,4 @@
 
 print("hello git")
 print("깃허브 확인")
+print("깃허브 re_commit")
